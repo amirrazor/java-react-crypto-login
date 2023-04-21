@@ -33,7 +33,7 @@ This project demonstrates how to implement user authentication in a web applicat
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/ethereum-authentication.git
+git clone https://github.com/amirrazor/java-react-crypto-login
 cd java-react-crypto-login/backend
 ```
 
