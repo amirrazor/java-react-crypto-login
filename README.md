@@ -1,4 +1,4 @@
-# Ethereum Authentication
+# Java React Crypto Login
 
 This project demonstrates how to implement user authentication in a web application using Ethereum addresses, nonces, and signatures. Users can register, log in, and log out using their Ethereum address and MetaMask wallet. The project is built using a React frontend, and a Spring Boot backend.
 
