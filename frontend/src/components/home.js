@@ -32,7 +32,10 @@ const Homepage = () => {
             </Container>
             <footer className="mt-5 py-3 bg-light text-center">
                 <p>
-                    All rights reserved: <a href="https://crypto-amir.com">Crypto Amir</a>
+                    MIT License
+                </p>
+                <p>
+                 Created by:   <a href="https://crypto-amir.com">Crypto Amir</a>
                 </p>
             </footer>
         </div>
