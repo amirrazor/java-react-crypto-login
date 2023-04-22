@@ -29,6 +29,7 @@ build/
 !**/src/main/**/build/
 !**/src/main/**/resources/
 !**/src/test/**/build/
+/backend/src/main/resources/application.yml
 
 ### VS Code ###
 .vscode/
